@@ -1,0 +1,8 @@
+[
+  { "name": "Markus Sillman", "photo" : "1.jpg" ,"candidateID": "1", "totalVotes": "0","percentageRatio": "0", "alreadyVoted": "0"},
+  { "name": "Nikita Culler", "photo" : "2.jpg", "candidateID": "2", "totalVotes": "0", "percentageRatio": "0", "alreadyVoted": "0"},
+  { "name": "Tawanna Melanson", "photo" : "3.jpg","candidateID": "3", "totalVotes": "0", "percentageRatio": "0", "alreadyVoted": "0"},
+  { "name": "Brunilda Mikels", "photo" : "4.jpg", "candidateID": "4", "totalVotes": "0", "percentageRatio": "0", "alreadyVoted": "0"},
+  { "name": "Hubert Takahashi", "photo" : "5.jpg","candidateID": "5", "totalVotes": "0", "percentageRatio": "0", "alreadyVoted": "0" },
+  { "name": "Hershel Caffrey", "photo" : "6.jpg","candidateID": "6", "totalVotes": "0", "percentageRatio": "0", "alreadyVoted": "0"}
+]
