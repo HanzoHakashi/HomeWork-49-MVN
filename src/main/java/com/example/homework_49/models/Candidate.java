@@ -11,5 +11,12 @@ public class Candidate {
     private double percentageRatio;
     private int alreadyVoted;
 
-
+    public Candidate(String name, String photo, int candidateID, int totalVotes, double percentageRatio, int alreadyVoted) {
+        this.name = name;
+        this.photo = photo;
+        this.candidateID = candidateID;
+        this.totalVotes = totalVotes;
+        this.percentageRatio = percentageRatio;
+        this.alreadyVoted = alreadyVoted;
+    }
 }

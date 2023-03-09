@@ -87,7 +87,7 @@ public class VoteServerController {
           }
       }
       List<Candidate> candidates = candidateDataModel.candidates;
-      Candidate candidate = null;
+      Candidate candidate = new Candidate("Anon","anon.jpg",0,0,0,0);;
       for (Candidate candidate1:candidates) {
           if (candidate1.getCandidateID()==candidateId){
               candidate=candidate1;

@@ -13,8 +13,8 @@
     <main class="flex flex-wrap align-center">
     <div class="card">
       <div class="flex flex-col align-center" href="#">
-          <img src=/images/${candidate.photo}>
-        <p>Thank you for your vote!</p>
+          <img src="images/${candidate.photo}">
+          <p>Thank you for your vote!</p>
       </div>
     </div>
     <a class="back flex align-center" href="/">back to main</a>
